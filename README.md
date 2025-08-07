@@ -48,7 +48,11 @@ Eventify is a lightweight, stylish event reminder application built to help user
 ---
 
 ## 📸 Screenshots
-*(Add screenshots here if you have time — optional but earns bonus points)*<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c3e60ccd-f2af-43b0-83c2-46e1974d8f84" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cfbf414e-415a-4f3b-a5ca-06aeb24955b8" />
+
+*<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c3e60ccd-f2af-43b0-83c2-46e1974d8f84" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6b11a94d-aaf8-413f-bd69-f1ce727e99fe" />
+
 
 
 ---
